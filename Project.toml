@@ -1,0 +1,8 @@
+name = "RiverLayout"
+uuid = "9361930a-f77e-430f-a078-2e0242d44e53"
+authors = ["Soc Virnyl S. Estela <socvirnyl.estela@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Wayland_jll = "a2964d1f-97da-50d4-b82a-358c7fce9d89"
+Wayland_protocols_jll = "2381bf8a-dfd0-557d-9999-79630e7b1b91"
