@@ -4,5 +4,6 @@ authors = ["Soc Virnyl S. Estela <socvirnyl.estela@gmail.com>"]
 version = "0.1.0"
 
 [deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 Wayland_jll = "a2964d1f-97da-50d4-b82a-358c7fce9d89"
 Wayland_protocols_jll = "2381bf8a-dfd0-557d-9999-79630e7b1b91"
